@@ -1,5 +1,5 @@
 # Charlie_Project
-Webscraping Data Engineering and Googlesheets Data Analysis project
+Web scraping Data Engineering and Google sheets Data Analysis project
 
 ## Project Objective
 Data Engineering Aspect
