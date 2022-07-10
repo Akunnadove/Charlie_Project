@@ -11,7 +11,7 @@ Write a Python script that does the following automatically:
 Data Analysis
 After populating the Google online worksheet the next phase is creating a Dashboard that displays the scraped data using google sheets.
 Here's the link to the Dashboard and Webscraped worksheet 
-https://docs.google.com/spreadsheets/d/1njhHOL1HZT0BWHTqge2QbOFKppdmpejr3lWSFcms_Jo/edit#gid=687420243
+https://docs.google.com/spreadsheets/d/1njhHOL1HZT0BWHTqge2QbOFKppdmpejr3lWSFcms_Jo
 ![charlie_dashboard](https://user-images.githubusercontent.com/66309302/178146919-6e106cd6-656f-49cc-bd30-13903d568660.PNG)
 
 ## Project Implementation
